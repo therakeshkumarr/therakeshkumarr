@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://giphy.com" width="100%" alt="Lofi Anime Coder Banner"/>
+  <img src="https://myoctocat.com" width="0" height="0" alt=""/>
+  <img src="https://githubusercontent.com" width="100%" alt="Anime Developer Workspace"/>
 </p>
 
 # 💫 About Me:
@@ -63,8 +64,6 @@ currently_optimizing:
 
 ### 💻 8. Legacy Runtimes, Assets & Frameworks
 ![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![NodeJS](https://shields.io) ![React](https://shields.io) ![.Net](https://shields.io) ![Apache Maven](https://shields.io) ![Apache Tomcat](https://shields.io) ![Apache](https://shields.io) ![Ruby](https://shields.io) ![R](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![Bootstrap](https://shields.io) ![Alpine.js](https://shields.io) ![WordPress](https://shields.io) ![NPM](https://shields.io) ![JWT](https://shields.io) ![Adobe Photoshop](https://shields.io) ![Canva](https://shields.io)
-
----
 
 # 📊 GitHub Stats:
 ![](https://shion.dev)<br/>
