@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://githubusercontent.com" width="100%" alt="Anime Coder Banner"/>
+  <img src="https://giphy.com" width="100%" alt="Lofi Anime Coder Banner"/>
 </p>
 
 <p align="right">
@@ -61,37 +61,37 @@ currently_optimizing:
 ---
 
 ## 💻 Tech Stack & Professional Ecosystem
-*Structured progressively from foundational systems to advanced cloud paradigms, automated security, and AI infrastructure inputs.*
+*Structured progressively from foundational systems to advanced cloud paradigms, automated security, and AI infrastructure frameworks.*
 
 ### 🐧 1. Core Operating Systems & Shell Engineering
-- **OS Platforms:** ![Linux](https://shields.io) ![Raspberry Pi](https://shields.io)
-- **Shell & Automation:** ![Bash Script](https://shields.io) ![PowerShell](https://shields.io) ![Windows Terminal](https://shields.io)
+* 💻 **OS Platforms:** `Linux` 🐧 | `Raspberry Pi` 🍓
+* 🐚 **Shell & Scripting:** `Bash Script` 📜 | `PowerShell` ⚡ | `Windows Terminal` 🪟
 
 ### ☁️ 2. Cloud Platforms & Modern Operations (CloudOps / FinOps / TechOps)
-- **Cloud Infrastructure:** ![AWS](https://shields.io) ![Azure](https://shields.io) ![Google Cloud](https://shields.io)
-- **Edge Networks:** ![Cloudflare](https://shields.io)
+* ☁️ **Cloud Providers:** `Amazon Web Services (AWS)` 🧡 | `Microsoft Azure` 💙 | `Google Cloud Platform (GCP)` 💛
+* 🌐 **Edge Routing:** `Cloudflare` 🧡
 
 ### 🚀 3. DevOps, GitOps, IaC & Container Orchestration
-- **Containerization:** ![Kubernetes](https://shields.io) ![Docker](https://shields.io)
-- **Configuration Management:** ![Terraform](https://shields.io) ![Ansible](https://shields.io)
+* 📦 **Containerization:** `Kubernetes (K8s)` ☸️ | `Docker` 🐳
+* 🏗️ **Infrastructure as Code:** `Terraform` 💜 | `Ansible` 🔴
 
 ### 🔄 4. CI/CD & Automated Security (DevSecOps)
-- **Pipelines:** ![GitHub Actions](https://shields.io) ![GitLab CI](https://shields.io) ![Jenkins](https://shields.io)
-- **Code Quality:** ![SonarQube](https://shields.io)
+* ⚙️ **Pipelines:** `GitHub Actions` 🐙 | `GitLab CI` 🦊 | `Jenkins` 🏗️
+* 🛡️ **Code Scanning:** `SonarQube` 🟦
 
 ### 📊 5. Observability, Monitoring & AI Analytics (AIOps)
-- **Telemetry:** ![Prometheus](https://shields.io) ![Grafana](https://shields.io)
-- **APM & Logging:** ![Datadog](https://shields.io) ![ElasticSearch](https://shields.io)
-- **Business Intelligence:** ![Power BI](https://shields.io)
+* 📈 **Telemetry Data:** `Prometheus` 🔥 | `Grafana` 🧡
+* 🔍 **Logging & APM:** `Datadog` 💜 | `ElasticSearch` 💚
+* 📊 **Business Intelligence:** `Power BI` 💛
 
 ### 🗄️ 6. Enterprise Data, Streaming & Cache Systems
-- **Databases:** ![Postgres](https://shields.io) ![MongoDB](https://shields.io) ![Amazon DynamoDB](https://shields.io)
-- **Streaming & Proxy:** ![Apache Kafka](https://shields.io) ![Nginx](https://shields.io) ![Redis](https://shields.io)
+* 🗄️ **Databases:** `PostgreSQL` 🐘 | `MongoDB` 🍃 | `Amazon DynamoDB` 🔲
+* 🚀 **Reverse Proxy & Streams:** `Nginx` 💚 | `Apache Kafka` 📭 | `Redis` 🔴
 
 ### 🤖 7. Advanced Automation, Scripting & AI/ML Pipelines (MLOps)
-- **Languages:** ![Python](https://shields.io) ![Apache Groovy](https://shields.io)
-- **Data Analytics:** ![Pandas](https://shields.io) ![NumPy](https://shields.io)
-- **API Engines:** ![FastAPI](https://shields.io)
+* 🐍 **Logic Execution:** `Python` 🐍 | `Apache Groovy` ☕
+* 🔢 **Data Analysis Engines:** `Pandas` 🐼 | `NumPy` 🟦
+* ⚡ **API Micro-frameworks:** `FastAPI` 💚
 
 ---
 
