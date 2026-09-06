@@ -33,10 +33,49 @@ currently_optimizing:
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://shields.io)](https://linkedin.com) [![X](https://shields.io)](https://x.com) [![email](https://shields.io)](mailto:rakeshkumarsahoo299@gmail.com) 
+* 👔 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+* 🐦 **X / Twitter:** [@_TheRakeshkumar](https://x.com)
+* 📧 **Email:** rakeshkumarsahoo299@gmail.com
 
-# 💻 Tech Stack:
-![Apache Groovy](https://shields.io) ![CSS3](https://shields.io) ![HTML5](https://shields.io) ![JavaScript](https://shields.io) ![PowerShell](https://shields.io) ![Python](https://shields.io) ![R](https://shields.io) ![Ruby](https://shields.io) ![Bash Script](https://shields.io) ![TypeScript](https://shields.io) ![Windows Terminal](https://shields.io) ![AWS](https://shields.io) ![Azure](https://shields.io) ![Google Cloud](https://shields.io) ![Datadog](https://shields.io) ![Cloudflare](https://shields.io) ![.Net](https://shields.io) ![Apache Kafka](https://shields.io) ![Bootstrap](https://shields.io) ![Alpine.js](https://shields.io) ![Elasticsearch](https://shields.io) ![JWT](https://shields.io) ![NPM](https://shields.io) ![NodeJS](https://shields.io) ![React](https://shields.io) ![WordPress](https://shields.io) ![FastAPI](https://shields.io) ![Apache](https://shields.io) ![Apache Maven](https://shields.io) ![Apache Tomcat](https://shields.io) ![Jenkins](https://shields.io) ![Nginx](https://shields.io) ![AmazonDynamoDB](https://shields.io) ![MariaDB](https://shields.io) ![MicrosoftSQLServer](https://shields.io) ![MongoDB](https://shields.io) ![MySQL](https://shields.io) ![Postgres](https://shields.io) ![Redis](https://shields.io) ![Adobe Photoshop](https://shields.io) ![Canva](https://shields.io) ![NumPy](https://shields.io) ![Pandas](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io) ![GitHub Actions](https://shields.io) ![GitLab CI](https://shields.io) ![Ansible](https://shields.io) ![Docker](https://shields.io) ![Kubernetes](https://shields.io) ![Prometheus](https://shields.io) ![Grafana](https://shields.io) ![Terraform](https://shields.io) ![SonarQube](https://shields.io) ![Jira](https://shields.io) ![ElasticSearch](https://shields.io) ![Postman](https://shields.io) ![Power Bi](https://shields.io) ![Notion](https://shields.io) ![Raspberry Pi](https://shields.io)
+---
+
+# 💻 Tech Stack & Professional Ecosystem
+
+### 🐧 1. Core Operating Systems & Shell Engineering
+* **OS Platforms:** `Linux` 🐧 | `Raspberry Pi` 🍓
+* **Shell & Scripting:** `Bash Script` 📜 | `PowerShell` ⚡ | `Windows Terminal` 🪟 | `Apache Groovy` ☕
+
+### ☁️ 2. Cloud Platforms & Modern Operations (CloudOps / FinOps / TechOps)
+* **Cloud Providers:** `Amazon Web Services (AWS)` 🧡 | `Microsoft Azure` 💙 | `Google Cloud Platform (GCP)` 💛
+* **Edge Routing:** `Cloudflare` 🧡
+
+### 🚀 3. DevOps, GitOps, IaC & Container Orchestration
+* **Containerization:** `Kubernetes (K8s)` ☸️ | `Docker` 🐳
+* **Infrastructure as Code:** `Terraform` 💜 | `Ansible` 🔴 | `Git` 🗂️ | `GitHub` 🐙
+
+### 🔄 4. CI/CD & Automated Security (DevSecOps)
+* **Pipelines:** `GitHub Actions` ⚙️ | `GitLab CI` 🦊 | `Jenkins` 🏗️ | `Apache Maven` 📦
+* **Code Scanning & Planning:** `SonarQube` 🟦 | `Jira` 📋
+
+### 📊 5. Observability, Monitoring & AI Analytics (AIOps)
+* **Telemetry Data:** `Prometheus` 🔥 | `Grafana` 🧡
+* **Logging & APM:** `Datadog` 🐕 | `ElasticSearch` 💚
+* **Business Intelligence:** `Power BI` 💛 | `Notion` 📓
+
+### 🗄️ 6. Enterprise Data, Streaming & Cache Systems
+* **Databases:** `PostgreSQL` 🐘 | `MongoDB` 🍃 | `Amazon DynamoDB` 🔲 | `MySQL` 🐬 | `MariaDB` 🦭 | `Microsoft SQL Server` 🟥
+* **Reverse Proxy & Streams:** `Nginx` 💚 | `Apache Kafka` 📭 | `Redis` 🔴 | `Apache Tomcat` 🐱 | `Apache Server` 🪶
+
+### 🤖 7. Advanced Automation, Scripting & AI/ML Pipelines (MLOps)
+* **Logic Execution:** `Python` 🐍 | `Ruby` 💎 | `R Language` 📊
+* **Data Analysis Engines:** `Pandas` 🐼 | `NumPy` 🟦
+* **API Micro-frameworks:** `FastAPI` 💚 | `Postman` 🚀
+
+### 💻 8. Legacy Runtimes & Web Assets
+* **Languages & UI:** `JavaScript` 💛 | `TypeScript` 💙 | `Node.js` 💚 | `React` ⚛️ | `.NET` 💜 | `HTML5` 🪟 | `CSS3` 🎨 | `Bootstrap` 💜 | `Alpine.js` ❄️ | `WordPress` 🌐 | `NPM` 📦 | `JWT` 🔑
+* **Creative Tools:** `Adobe Photoshop` 🔵 | `Canva` 🎨
+
+---
 
 # 📊 GitHub Stats:
 ![](https://shion.dev)<br/>
@@ -61,3 +100,11 @@ currently_optimizing:
 ---
 <p align="center">
   <a href="https://itsvg.in">
+    <img src="https://komarev.com" alt="Profile Views Tracker" />
+  </a>
+</p>
+
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://shields.io)](https://buymeacoffee.com) 
+
+<!-- Proudly created with GPRM ( https://itsvg.in ) -->
