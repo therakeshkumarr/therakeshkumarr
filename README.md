@@ -1,22 +1,5 @@
-<p align="center">
-  <img src="https://githubusercontent.com" width="100%" alt="Anime Developer Workspace"/>
-</p>
-
-# 💫 About Me
-👋 Hi, I'm **Rakesh** | **Cloud & DevOps Engineer**
-
-I am a Cloud & DevOps Engineer focused on building scalable, self-healing cloud infrastructure, secure CI/CD pipelines, and robust Internal Developer Platforms (IDPs). I bridge the gap between development and operations by automating everything from infrastructure provisioning to container orchestration.
-
-* 🔭 **Current Focus:** Optimizing multi-cluster Kubernetes deployments and migrating legacy workloads to serverless architectures.
-* ⚙️ **Core Philosophy:** *If you have to do it twice, automate it.*
-* 💬 **Ask me about:** GitOps, Infrastructure as Code, High Availability, and Site Reliability Engineering (SRE).
-
----
-
-## 🌐 Connect with Me
-* 👔 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
-* 🐦 **X / Twitter:** [@_TheRakeshkumar](https://x.com)
-* 📧 **Email:** rakeshkumarsahoo299@gmail.com
+# 💫 About Me:
+👋 Hi, I'm Rakesh | Cloud & DevOps Engineer<br><br>🚀 About Me<br><br>I am a Cloud & DevOps Engineer focused on building scalable, self-healing cloud infrastructure, secure CI/CD pipelines, and robust Internal Developer Platforms (IDPs). I bridge the gap between development and operations by automating everything from infrastructure provisioning to container orchestration.<br><br>- 🔭 **Current Focus:** Optimizing multi-cluster Kubernetes deployments and migrating legacy workloads to serverless architectures.<br>- ⚙️ **Core Philosophy:** *If you have to do it twice, automate it.*<br>- 💬 **Ask me about:** GitOps, Infrastructure as Code, High Availability, and Site Reliability Engineering (SRE).<br>
 
 ---
 
@@ -47,69 +30,41 @@ currently_optimizing:
 
 ---
 
-## 💻 Tech Stack & Professional Ecosystem
-*Structured progressively from foundational systems to advanced cloud paradigms, automated security, and AI infrastructure frameworks.*
+## 🌐 Socials:
+[![LinkedIn](https://shields.io)](https://linkedin.com) [![X](https://shields.io)](https://x.com) [![email](https://shields.io)](mailto:rakeshkumarsahoo299@gmail.com) 
 
+# 💻 Tech Stack:
 ### 🐧 1. Core Operating Systems & Shell Engineering
-* **OS Platforms:** `Linux` 🐧 | `Raspberry Pi` 🍓
-* **Shell & Scripting:** `Bash Script` 📜 | `PowerShell` ⚡ | `Windows Terminal` 🪟
+![Linux](https://shields.io) ![Raspberry Pi](https://shields.io) ![Bash Script](https://shields.io) ![PowerShell](https://shields.io) ![Windows Terminal](https://shields.io)
 
 ### ☁️ 2. Cloud Platforms & Modern Operations (CloudOps / FinOps / TechOps)
-* **Cloud Providers:** `Amazon Web Services (AWS)` 🧡 | `Microsoft Azure` 💙 | `Google Cloud Platform (GCP)` 💛
-* **Edge Routing:** `Cloudflare` 🧡
+![AWS](https://shields.io) ![Azure](https://shields.io) ![Google Cloud](https://shields.io) ![Cloudflare](https://shields.io)
 
 ### 🚀 3. DevOps, GitOps, IaC & Container Orchestration
-* **Containerization:** `Kubernetes (K8s)` ☸️ | `Docker` 🐳
-* **Infrastructure as Code:** `Terraform` 💜 | `Ansible` 🔴
+![Kubernetes](https://shields.io) ![Docker](https://shields.io) ![Terraform](https://shields.io) ![Ansible](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io)
 
 ### 🔄 4. CI/CD & Automated Security (DevSecOps)
-* **Pipelines:** `GitHub Actions` 🐙 | `GitLab CI` 🦊 | `Jenkins` 🏗️
-* **Code Scanning:** `SonarQube` 🟦
+![GitHub Actions](https://shields.io) ![GitLab CI](https://shields.io) ![Jenkins](https://shields.io) ![SonarQube](https://shields.io) ![Jira](https://shields.io)
 
 ### 📊 5. Observability, Monitoring & AI Analytics (AIOps)
-* **Telemetry Data:** `Prometheus` 🔥 | `Grafana` 🧡
-* **Logging & APM:** `Datadog` 💜 | `ElasticSearch` 💚
-* **Business Intelligence:** `Power BI` 💛
+![Prometheus](https://shields.io) ![Grafana](https://shields.io) ![Datadog](https://shields.io) ![ElasticSearch](https://shields.io) ![Power Bi](https://shields.io) ![Notion](https://shields.io)
 
 ### 🗄️ 6. Enterprise Data, Streaming & Cache Systems
-* **Databases:** `PostgreSQL` 🐘 | `MongoDB` 🍃 | `Amazon DynamoDB` 🔲
-* **Reverse Proxy & Streams:** `Nginx` 💚 | `Apache Kafka` 📭 | `Redis` 🔴
+![Postgres](https://shields.io) ![Redis](https://shields.io) ![Nginx](https://shields.io) ![Apache Kafka](https://shields.io) ![MongoDB](https://shields.io) ![AmazonDynamoDB](https://shields.io) ![MySQL](https://shields.io) ![MariaDB](https://shields.io) ![MicrosoftSQLServer](https://shields.io)
 
 ### 🤖 7. Advanced Automation, Scripting & AI/ML Pipelines (MLOps)
-* **Logic Execution:** `Python` 🐍 | `Apache Groovy` ☕
-* **Data Analysis Engines:** `Pandas` 🐼 | `NumPy` 🟦
-* **API Micro-frameworks:** `FastAPI` 💚
+![Python](https://shields.io) ![Pandas](https://shields.io) ![NumPy](https://shields.io) ![Apache Groovy](https://shields.io) ![FastAPI](https://shields.io) ![Postman](https://shields.io)
 
----
+### 💻 8. Legacy Runtimes, Assets & Frameworks
+![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![NodeJS](https://shields.io) ![React](https://shields.io) ![.Net](https://shields.io) ![Apache Maven](https://shields.io) ![Apache Tomcat](https://shields.io) ![Apache](https://shields.io) ![Ruby](https://shields.io) ![R](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![Bootstrap](https://shields.io) ![Alpine.js](https://shields.io) ![WordPress](https://shields.io) ![NPM](https://shields.io) ![JWT](https://shields.io) ![Adobe Photoshop](https://shields.io) ![Canva](https://shields.io)
 
-## 📊 Analytics & Metrics
+# 📊 GitHub Stats:
+![](https://shion.dev)<br/>
+![](https://demolab.com)<br/>
+![](https://shion.dev)
 
-🚀 **Development Contribution Metrics**
-
-<p align="center">
-  <img src="https://vercel.app" height="195em" alt="Rakesh's GitHub Stats" />
-  <img src="https://vercel.app" height="195em" alt="Top Languages Map" />
-</p>
-
-<p align="center">
-  <img src="https://demolab.com" width="85%" alt="Rakesh's Streak Stats" />
-</p>
+## 🏆 GitHub Trophies
+![](https://vercel.app)
 
 ### 👾 Contribution History Snake Game
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="GitHub Contribution Grid Snake Animation" src="https://githubusercontent.com" width="100%">
-</picture>
-
----
-
-### ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://vercel.app" alt="Dynamic Tech Quote" />
-</p>
-
----
-
-## 💰 Support My Work
-* ☕ **Buy Me a Coffee:** [://buymeacoffee.com](https://://buymeacoffee.com)
