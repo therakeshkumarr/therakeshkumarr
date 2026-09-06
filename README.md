@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://vercel.app" alt="DevOps Banner"/>
+  <img src="https://githubusercontent.com" width="100%" alt="Anime Coder Banner"/>
 </p>
 
 <p align="right">
@@ -9,7 +9,7 @@
 # 💫 About Me
 👋 Hi, I'm **Rakesh** | **Cloud & DevOps Engineer**
 
-I am a Cloud & DevOps Engineer focused on building scalable, self-healing cloud infrastructure, secure CI/CD pipelines, and robust Internal Developer Platforms (IDPs). I bridge the gap between development and operations by automating everything from infrastructure provisioning to container orchestration.
+I build scalable, self-healing cloud infrastructure, secure CI/CD pipelines, and robust Internal Developer Platforms (IDPs). I bridge the gap between development and operations by automating everything from infrastructure provisioning to container orchestration.
 
 - 🔭 **Current Focus:** Optimizing multi-cluster Kubernetes deployments and migrating legacy workloads to serverless architectures.
 - ⚙️ **Core Philosophy:** *If you have to do it twice, automate it.*
@@ -33,17 +33,17 @@ environment:
   current_role: Cloud & DevOps Engineer
   
 methodologies:
-  - Linux Systems Management & Kernel Optimization
-  - GitOps (Declarative Infrastructure & Continuous Delivery)
-  - DevSecOps (Shifting Security Left & Vulnerability Management)
-  - CloudOps & FinOps (Cloud Scalability, Reliability & Cost Control)
-  - TechOps & ITOps (Enterprise Service Delivery & Infrastructure Integrity)
-  - AIOps & MLOps (AI-Driven Operations & Machine Learning Lifecycle Infrastructure)
+  - Linux Systems Management & Kernel Optimization 🐧
+  - GitOps (Declarative Infrastructure & Continuous Delivery) 🔄
+  - DevSecOps (Shifting Security Left & Vulnerability Automation) 🛡️
+  - CloudOps & FinOps (Cloud Scalability & Financial Cost Control) 💰
+  - TechOps & ITOps (Enterprise Service Delivery & Infrastructure Integrity) 🛠️
+  - AIOps & MLOps (AI-Driven Operations & Machine Learning Lifecycle Infrastructure) 🤖
 
 technical_background:
-  - Infrastructure as Code (IaC) Architect
-  - Multi-Cloud Infrastructure Management
-  - High Availability & Disaster Recovery Orchestration
+  - Infrastructure as Code (IaC) Architect 🏗️
+  - Multi-Cloud Infrastructure Management ☁️
+  - High Availability & Disaster Recovery Orchestration ⚡
 
 currently_optimizing: 
   - Kubernetes multi-cluster routing & service meshes
@@ -61,28 +61,37 @@ currently_optimizing:
 ---
 
 ## 💻 Tech Stack & Professional Ecosystem
-*Structured progressively from foundational systems to advanced cloud paradigms, automated security, and AI infrastructure frameworks.*
+*Structured progressively from foundational systems to advanced cloud paradigms, automated security, and AI infrastructure inputs.*
 
 ### 🐧 1. Core Operating Systems & Shell Engineering
-![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io)
+- **OS Platforms:** ![Linux](https://shields.io) ![Raspberry Pi](https://shields.io)
+- **Shell & Automation:** ![Bash Script](https://shields.io) ![PowerShell](https://shields.io) ![Windows Terminal](https://shields.io)
 
 ### ☁️ 2. Cloud Platforms & Modern Operations (CloudOps / FinOps / TechOps)
-![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io)
+- **Cloud Infrastructure:** ![AWS](https://shields.io) ![Azure](https://shields.io) ![Google Cloud](https://shields.io)
+- **Edge Networks:** ![Cloudflare](https://shields.io)
 
 ### 🚀 3. DevOps, GitOps, IaC & Container Orchestration
-![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io)
+- **Containerization:** ![Kubernetes](https://shields.io) ![Docker](https://shields.io)
+- **Configuration Management:** ![Terraform](https://shields.io) ![Ansible](https://shields.io)
 
 ### 🔄 4. CI/CD & Automated Security (DevSecOps)
-![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io)
+- **Pipelines:** ![GitHub Actions](https://shields.io) ![GitLab CI](https://shields.io) ![Jenkins](https://shields.io)
+- **Code Quality:** ![SonarQube](https://shields.io)
 
 ### 📊 5. Observability, Monitoring & AI Analytics (AIOps)
-![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io)
+- **Telemetry:** ![Prometheus](https://shields.io) ![Grafana](https://shields.io)
+- **APM & Logging:** ![Datadog](https://shields.io) ![ElasticSearch](https://shields.io)
+- **Business Intelligence:** ![Power BI](https://shields.io)
 
 ### 🗄️ 6. Enterprise Data, Streaming & Cache Systems
-![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io)
+- **Databases:** ![Postgres](https://shields.io) ![MongoDB](https://shields.io) ![Amazon DynamoDB](https://shields.io)
+- **Streaming & Proxy:** ![Apache Kafka](https://shields.io) ![Nginx](https://shields.io) ![Redis](https://shields.io)
 
 ### 🤖 7. Advanced Automation, Scripting & AI/ML Pipelines (MLOps)
-![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io)
+- **Languages:** ![Python](https://shields.io) ![Apache Groovy](https://shields.io)
+- **Data Analytics:** ![Pandas](https://shields.io) ![NumPy](https://shields.io)
+- **API Engines:** ![FastAPI](https://shields.io)
 
 ---
 
@@ -91,8 +100,8 @@ currently_optimizing:
 🚀 **Development Contribution Metrics**
 
 <p align="center">
-  <img src="https://shion.dev" height="195em" alt="Rakesh's GitHub Stats" />
-  <img src="https://shion.dev" height="195em" alt="Top Languages Map" />
+  <img src="https://vercel.app" height="195em" alt="Rakesh's GitHub Stats" />
+  <img src="https://vercel.app" height="195em" alt="Top Languages Map" />
 </p>
 
 <p align="center">
