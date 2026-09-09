@@ -37,7 +37,10 @@ I work across **Linux, Bash/Shell, AWS, automation, CI/CD, Docker and Kubernetes
 **Linux | Bash | AWS | CloudOps | TechOps | Application Support | CI/CD | Docker | Kubernetes | Monitoring | FinOps | Automation**
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/therakeshkumar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_TheRakeshkumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakeshkumarsahoo299@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/therakeshkumar)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_TheRakeshkumar)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakeshkumarsahoo299@gmail.com)
 
 # 💻 Tech Stack:
 
@@ -50,16 +53,16 @@ I work across **Linux, Bash/Shell, AWS, automation, CI/CD, Docker and Kubernetes
 ### ☁️ AWS
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/EC2-FF6B35?style=for-the-badge&logo=amazonec2&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/S3-2E8B57?style=for-the-badge&logo=amazons3&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/Lambda-9B59B6?style=for-the-badge&logo=awslambda&logoColor=white)
-![Amazon CloudWatch](https://img.shields.io/badge/CloudWatch-3498DB?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
-![AWS IAM](https://img.shields.io/badge/IAM-E74C3C?style=for-the-badge&logo=amazoniam&logoColor=white)
-![Amazon EBS](https://img.shields.io/badge/EBS-F39C12?style=for-the-badge&logo=amazonec2&logoColor=white)
-![Amazon ECS](https://img.shields.io/badge/ECS-16A085?style=for-the-badge&logo=amazonecs&logoColor=white)
-![Amazon EKS](https://img.shields.io/badge/EKS-8E44AD?style=for-the-badge&logo=amazoneks&logoColor=white)
-![Amazon SNS](https://img.shields.io/badge/SNS-E84393?style=for-the-badge&logo=amazonsns&logoColor=white)
-![Amazon SQS](https://img.shields.io/badge/SQS-2980B9?style=for-the-badge&logo=amazonsqs&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF6B35?style=for-the-badge&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-2E8B57?style=for-the-badge&logo=amazons3&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-9B59B6?style=for-the-badge&logo=awslambda&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-3498DB?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-E74C3C?style=for-the-badge&logo=amazoniam&logoColor=white)
+![EBS](https://img.shields.io/badge/EBS-F39C12?style=for-the-badge&logo=amazonec2&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS-16A085?style=for-the-badge&logo=amazonecs&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-8E44AD?style=for-the-badge&logo=amazoneks&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-E84393?style=for-the-badge&logo=amazonsns&logoColor=white)
+![SQS](https://img.shields.io/badge/SQS-2980B9?style=for-the-badge&logo=amazonsqs&logoColor=white)
 
 ### ⚙️ DevOps & Automation
 
@@ -88,28 +91,16 @@ I work across **Linux, Bash/Shell, AWS, automation, CI/CD, Docker and Kubernetes
 
 # 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://cdn.jsdelivr.net/gh/therakeshkumar/therakeshkumar@output/github-contribution-grid-snake-dark.svg">
+![GitHub Contribution Snake](https://cdn.jsdelivr.net/gh/therakeshkumar/therakeshkumar@output/github-contribution-grid-snake-dark.svg)
 
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://cdn.jsdelivr.net/gh/therakeshkumar/therakeshkumar@output/github-contribution-grid-snake.svg">
-
-    <img
-      src="https://cdn.jsdelivr.net/gh/therakeshkumar/therakeshkumar@output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake">
-  </picture>
-</p>
+---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=therakeshkumarr&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=therakeshkumarr&theme=radical&hide_border=false&include_all_commits=true&count_private=false&hide_title=true)<br/>
 ![](https://streak-stats.demolab.com/?user=therakeshkumarr&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=therakeshkumarr&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆🏅 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=therakeshkumarr&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
