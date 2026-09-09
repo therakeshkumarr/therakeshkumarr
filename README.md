@@ -91,7 +91,11 @@ I work across **Linux, Bash/Shell, AWS, automation, CI/CD, Docker and Kubernetes
 
 # 🐍 GitHub Contribution Snake
 
-![GitHub Contribution Snake](https://cdn.jsdelivr.net/gh/therakeshkumar/therakeshkumar@output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/therakeshkumarr/therakeshkumarr/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+
+</p>
 
 ---
 
@@ -101,7 +105,12 @@ I work across **Linux, Bash/Shell, AWS, automation, CI/CD, Docker and Kubernetes
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=therakeshkumarr&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆🏅 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=therakeshkumarr&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+<p align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=therakeshkumarr&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
