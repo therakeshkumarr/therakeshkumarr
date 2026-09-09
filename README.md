@@ -1,14 +1,40 @@
 <div align="center">
-  
+
 # 📡 Signal Received: Rakesh Kumar Sahoo is Online!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=DevOps+%26+Cloud+Enthusiast;AWS+%7C+Jenkins+%7C+Linux+%7C+GitHub;4%2B+Years+Experience+at+Dailyhunt;Working+on+EC2+%26+DevOps+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=IT+Ops+%E2%86%92+TechOps+%E2%86%92+CloudOps+%E2%86%92+DevOps;Linux+%26+Bash+%7C+AWS+%7C+Automation;CI%2FCD+%7C+Docker+%7C+Kubernetes;Operations+%26+Systems)](https://git.io/typing-svg)
 
 </div>
 
 # 💫 About Me:
-👋 Hi, I'm Rakesh | Cloud & DevOps Engineer<br><br>🚀 About Me<br><br>I am a Cloud & DevOps Engineer focused on building scalable, self-healing cloud infrastructure, secure CI/CD pipelines, and robust Internal Developer Platforms (IDPs). I bridge the gap between development and operations by automating everything from infrastructure provisioning to container orchestration.<br><br>- 🔭 **Current Focus:** Optimizing multi-cluster Kubernetes deployments and migrating legacy workloads to serverless architectures.<br>- ⚙️ **Core Philosophy:** *If you have to do it twice, automate it.*<br>- 💬 **Ask me about:** GitOps, Infrastructure as Code, High Availability, and Site Reliability Engineering (SRE).<br>
 
+👋 **Hi, I'm Rakesh 😎**
+
+**Linux & Bash | AWS | Automation | CI/CD | Docker | Kubernetes | Operations & Systems**
+
+IT Operations & CloudOps professional with nearly 4 years of production experience in application support, monitoring, live-content workflows and technology operations.
+
+I work across **Linux, Bash/Shell, AWS, automation, CI/CD, Docker and Kubernetes**, with an MBA in **Operations & Systems**. My focus is on connecting technology, operational processes and measurable business outcomes.
+
+### 🔭 Current Focus
+
+- ☁️ CloudOps & DevOps automation
+- 🐧 Linux & production troubleshooting
+- 🐳 Containerized workloads with Docker & Kubernetes
+- ⚙️ AWS infrastructure and application operations
+- 📊 Monitoring & operational reliability
+- 💰 FinOps & cloud cost awareness
+- 🏗️ Infrastructure automation with Terraform & Ansible
+
+### ⚙️ My Approach
+
+> **Automate what is repetitive.**  
+> **Troubleshoot with evidence.**  
+> **Improve what can be measured.**
+
+### 💬 Ask me about
+
+**Linux | Bash | AWS | CloudOps | TechOps | Application Support | CI/CD | Docker | Kubernetes | Monitoring | FinOps | Automation**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/therakeshkumar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@_TheRakeshkumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakeshkumarsahoo299@gmail.com) 
