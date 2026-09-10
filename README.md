@@ -10,8 +10,6 @@
 
 👋 **Hi, I'm Rakesh 😎**
 
-**Linux & Bash | AWS | Automation | CI/CD | Docker | Kubernetes | Operations & Systems**
-
 IT Operations & CloudOps professional with nearly 4 years of production experience in application support, monitoring, live-content workflows and technology operations.
 
 I work across **Linux, Bash/Shell, AWS, automation, CI/CD, Docker and Kubernetes**, with an MBA in **Operations & Systems**. My focus is on connecting technology, operational processes and measurable business outcomes.
