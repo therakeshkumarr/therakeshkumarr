@@ -126,5 +126,20 @@ I work across **Linux, Bash/Shell, AWS, automation, CI/CD, Docker and Kubernetes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+<div align="center">
 
-[![](https://komarev.com/ghpvc/?username=therakeshkumarr&icon=0&color=0)](https://visitcount.itsvg.in)
+## 👁️ Profile Activity
+
+<img
+  src="https://komarev.com/ghpvc/?username=therakeshkumarr&label=PROFILE+VIEWS&color=00D4FF&style=for-the-badge"
+  alt="GitHub Profile Views"
+/>
+
+<br><br>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=900&color=00D4FF&center=true&vCenter=true&width=560&lines=Thanks+for+visiting+my+profile!;🔨+Build+→+⚙️+Automate+→+🔍+Troubleshoot+→+🚀+Improve"
+  alt="Profile Philosophy"
+/>
+
+</div>
