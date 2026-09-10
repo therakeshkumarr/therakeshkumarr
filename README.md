@@ -128,13 +128,17 @@ I work across **Linux, Bash/Shell, AWS, automation, CI/CD, Docker and Kubernetes
 ---
 <div align="center">
 
-<h2>👁️ Profile Activity</h2>
+<p>
+  <strong>👁️ Profile Activity</strong>
+</p>
 
 <img
-  src="https://github-view-counter.vercel.app/api?username=therakeshkumarr&label=PROFILE+VIEWS&layout=split&style=rounded&bgColor=0D1117&labelBgColor=F28C00&labelColor=FFFFFF&iconColor=FFFFFF&iconSize=18&size=14"
+  src="https://github-view-counter.vercel.app/api?username=therakeshkumarr&label=PROFILE+VIEWS&layout=split&style=rounded&color=FFFFFF&bgColor=00AEEF&labelBgColor=F28C00&labelColor=FFFFFF&iconColor=FFFFFF&iconSize=18&size=15&abbreviated=false"
   alt="GitHub Profile Views"
 />
 
-<h3>🔨 Build → ⚙️ Automate → 🔍 Troubleshoot → 🚀 Improve</h3>
+<p>
+  <strong>🔨 Build → ⚙️ Automate → 🔍 Troubleshoot → 🚀 Improve</strong>
+</p>
 
 </div>
