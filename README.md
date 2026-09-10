@@ -135,8 +135,6 @@ I work across **Linux, Bash/Shell, AWS, automation, CI/CD, Docker and Kubernetes
   alt="GitHub Profile Views"
 />
 
-<br><br>
-
 ### 🔨 Build → ⚙️ Automate → 🔍 Troubleshoot → 🚀 Improve
 
 </div>
